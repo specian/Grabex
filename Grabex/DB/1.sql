@@ -1,0 +1,2 @@
+﻿CREATE DATABASE FirmyCz COLLATE Czech_CI_AI
+GO
